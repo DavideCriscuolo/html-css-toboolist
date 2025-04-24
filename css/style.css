@@ -6,22 +6,28 @@
 /* utility */
 .bg_butt_blue {
   background-color: #45abea;
+  border: 1px #45abea;
 }
 .bg_butt_purple {
   background-color: #9c72e4;
+  border: 1px #9c72e4;
 }
 .bg_butt_green {
   background-color: #64c0a9;
+  border: 1px #64c0a9;
 }
 .bg_butt_orange {
   background-color: #f29e33;
+  border: 1px #f29e33;
 }
 .bg_butt_pink {
   background-color: #d863a1;
+  border: 1px #d863a1;
 }
 
-.bg_butt_pink {
+.bg_butt_lime {
   background-color: #b0c926;
+  border: 1px #b0c926;
 }
 
 .bg_butt_white {
@@ -57,13 +63,13 @@ header h1 {
 
 .container {
   margin: 0 auto;
-  background-color: white;
   max-width: 1200px;
   margin-top: 40px;
 }
 .int_container {
   width: 100%;
   height: 70px;
+  background-color: white;
 }
 
 .int_container button {
@@ -80,4 +86,56 @@ header h1 {
 }
 .big_butt_blue {
   border: 1px solid #45abea;
+}
+.container_list {
+  background-color: white;
+  margin-top: 5px;
+  padding-top: 20px;
+  padding-left: 50px;
+}
+
+.container_list ul {
+  list-style-type: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.container_list li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.small_button {
+  margin-left: 2px;
+  border-radius: 18px;
+  padding: 4px;
+  height: 24px;
+  width: 55px;
+  font-size: 10px;
+}
+
+.check {
+  font-size: 12px;
+  text-align: center;
+  display: inline-block;
+  align-content: flex-start;
+  color: green;
+  border: 1px solid;
+  border-radius: 10px;
+  border-color: green;
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+}
+.cross {
+  color: red;
+  font-size: 12px;
+  text-align: center;
+  display: inline-block;
+  align-content: flex-start;
+  border: 1px solid;
+  border-radius: 10px;
+  border-color: red;
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
 }
