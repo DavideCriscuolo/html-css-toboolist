@@ -35,9 +35,11 @@
 }
 .txt_butt_white {
   color: white;
+  font-family: "Roboto", sans-serif;
 }
 .txt_butt_grey {
   color: grey;
+  font-family: "Roboto", sans-serif;
 }
 .big_butt_grey {
   border: 1px solid grey;
@@ -84,6 +86,7 @@
   height: 24px;
   width: 55px;
   font-size: 10px;
+  font-family: "Roboto", sans-serif;
 }
 
 /* general */
