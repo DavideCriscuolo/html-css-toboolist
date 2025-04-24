@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/* utility */
+.bg_butt_blue {
+  background-color: #45abea;
+}
+.bg_butt_purple {
+  background-color: #9c72e4;
+}
+.bg_butt_green {
+  background-color: #64c0a9;
+}
+.bg_butt_orange {
+  background-color: #f29e33;
+}
+.bg_butt_pink {
+  background-color: #d863a1;
+}
+
+.bg_butt_pink {
+  background-color: #b0c926;
+}
+
+.bg_butt_white {
+  background-color: white;
+}
+.txt_butt_white {
+  color: white;
+}
+
+/* general */
+body {
+  background-color: #f6f8f9;
+}
